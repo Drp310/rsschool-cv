@@ -1,3 +1,5 @@
+![picture](./hqdefault.jpg 'я')
+
 Drp 310
 
 Discord:Performance_artist#7416 Telegram:@Drp310
@@ -12,6 +14,5 @@ Examples of my code you can find in my publick projects
 I dont have any expirience, wrote slider https://github.com/Drp310/learnSlider, to do list using vue https://github.com/Drp310/vueToDoList
 
 Took stepik courses "введение в с++", "программирование на python" and course "математика в кибербезопасности"))
-b2
 
-![picture](./hqdefault.jpg 'я')
+b2
