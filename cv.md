@@ -31,7 +31,6 @@ return(false);
 }
 return(true);
 }
-
 ```
 
 6.I dont have any expirience, wrote slider https://github.com/Drp310/learnSlider, to do list using vue https://github.com/Drp310/vueToDoList
