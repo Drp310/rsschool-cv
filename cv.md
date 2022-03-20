@@ -9,7 +9,9 @@
 
 4. Python and c++,js,html,css,pug,cscc,gulp,vue
 
-5. ```
+5. Write a function that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the string is valid, and false if it's invalid.
+
+   ```
    function validParentheses(parens){
    var a = String(parens);
    var cnt = 0;
@@ -32,3 +34,7 @@
    ```
 
 6. I dont have any expirience, wrote slider https://github.com/Drp310/learnSlider, to do list using vue https://github.com/Drp310/vueToDoList
+
+7. Took stepik courses "введение в с++", "программирование на python" and course "математика в кибербезопасности"))
+
+8. b2
