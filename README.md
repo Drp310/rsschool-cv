@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://Drp310.github.io/rsschool-cv/cv
+https://Drp310.github.io/rsschool-cv/
